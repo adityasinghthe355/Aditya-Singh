@@ -1,0 +1,6 @@
+{
+  "name": "Sandysaurus Simulator",
+  "description": "Mobile open-world urban simulation game featuring realistic human NPCs, daily schedules, traffic AI, drivable cars, skill trees, and procedural side-quests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
